@@ -1,0 +1,14 @@
+interface:
+  display_name: 情商与关系调焦
+  short_description: 以准确共情、开放观察、清晰边界和适时行动回应关系现场
+  default_prompt: Use $relational-attunement to respond with emotional accuracy, open
+    attention, and appropriate boundaries.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

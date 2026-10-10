@@ -1,0 +1,61 @@
+{
+  "schema": "relational-attunement-release-v1",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1070,
+      "sha256": "08e12b7862b1dc27d67b270adf2b7393b5930b11e322e3541a063c4f40830713"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2675,
+      "sha256": "0104d7ece61e366f84bdcc7d061ed211f86ac6fed077367429945ad533eca26c"
+    },
+    {
+      "path": "skills/relational-attunement/SKILL.md",
+      "bytes": 5249,
+      "sha256": "6928f54a66714097f1a2ab2d259f52f3887d1029041e29574ddc3d680ad7936c"
+    },
+    {
+      "path": "skills/relational-attunement/agents/openai.yaml",
+      "bytes": 432,
+      "sha256": "d60239f0835f0115d43b12356a484f278423e4a5f0f9b902c3701e3f8a8d1530"
+    },
+    {
+      "path": "skills/relational-attunement/assets/icon.svg",
+      "bytes": 667,
+      "sha256": "9be88f8dd4c5e658961515c71389eafd45142ffa68bcae58e8dcff57d178ed91"
+    },
+    {
+      "path": "skills/relational-attunement/references/attention-model.md",
+      "bytes": 1929,
+      "sha256": "bd91dfd44d3e59dedeeb5e0b447f032bd9ddd7fac0f0205b459c91de10f07b18"
+    },
+    {
+      "path": "skills/relational-attunement/references/evaluations.md",
+      "bytes": 2219,
+      "sha256": "4be3cb5fccf73121be3ade903bb8cc4359f88224609f255452c5539d5f1e71da"
+    },
+    {
+      "path": "skills/relational-attunement/references/examples.md",
+      "bytes": 2983,
+      "sha256": "1727d9db1ca7643963934def875a6193e5fae388386564910cda214474c07c09"
+    },
+    {
+      "path": "skills/relational-attunement/references/failure-patterns.md",
+      "bytes": 2157,
+      "sha256": "5837ca552f7f45e53ed0f5da0cda8a40c321f8fdedd391500cc76ad1c9253bfa"
+    },
+    {
+      "path": "skills/relational-attunement/references/response-modes.md",
+      "bytes": 2177,
+      "sha256": "d88264e43003d98fa229fabb165d73063283945457a4b2992f6d82d2ed8cff96"
+    }
+  ]
+}
