@@ -17,7 +17,9 @@
 | 版本 | 适用对象 | 入口 |
 | --- | --- | --- |
 | **Agent Skill · 智能体技能** | Claude Code、Codex、Lumina α 及其他 harness 中的智能体 | [SKILL.md](skills/relational-attunement/SKILL.md) |
-| **Chat Edition · 对话版 v0.1** | ChatGPT、Claude、Gemini 等聊天型 AI：陪伴、共思、自由交流、关系调焦 | [中文版](docs/chat-edition.zh-CN.md) · [English](docs/chat-edition.en.md) |
+| **Chat Edition · 对话版 v0.1** | ChatGPT、Claude、Gemini 等聊天型 AI：陪伴、共思、自由交流、关系调焦 | **[中文主版](docs/chat-edition.zh-CN.md)** · [English 参考译版](docs/chat-edition.en.md) |
+
+**维护约定：** Chat Edition 以中文版为唯一内容主版（source of truth），所有修订先更新中文；英文作为按需生成的参考译版，不独立演化。README 继续保持中英双语；Agent Skill 只维护现有一个主技能文件，避免重复分叉。
 
 对话版增加了六种回应模式——**共在、澄清、共思、行动、边界、自由交流**——强调交流不一定需要目标，也允许关系、话题与对话距离自然变化。三种注意力位置（体验者、改善者、观察者）是可变的观察角度，并非人格等级。
 
@@ -59,7 +61,9 @@ Attunement means accurate attention, calibrated uncertainty, human agency, and a
 | Edition | Intended use | Read |
 | --- | --- | --- |
 | **Agent Skill** | Claude Code, Codex, Lumina α, and other agent harnesses | [SKILL.md](skills/relational-attunement/SKILL.md) |
-| **Chat Edition v0.1** | Conversational AI: presence, co-thinking, open conversation, and evolving relationships | [English](docs/chat-edition.en.md) · [中文](docs/chat-edition.zh-CN.md) |
+| **Chat Edition v0.1** | Conversational AI: presence, co-thinking, open conversation, and evolving relationships | **[Chinese canonical edition](docs/chat-edition.zh-CN.md)** · [English reference translation](docs/chat-edition.en.md) |
+
+**Maintenance policy:** The Chinese Chat Edition is the single canonical source. Update it first; the English document is an on-demand reference translation, not a separately maintained edition. The README remains bilingual, and the Agent Skill keeps one canonical SKILL.md.
 
 The Chat Edition describes six response modes: **presence, clarification, co-thinking, action, boundary, and open conversation**. It treats experiencer, improver, and observer as fluid attention positions, not fixed personalities or a hierarchy.
 
