@@ -8,19 +8,24 @@
       "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
     },
     {
+      "path": "docs/chat-edition.en.md",
+      "bytes": 6020,
+      "sha256": "c346c50ca7e5c00e966c9f7dee2e5ec0cb09e5fdbd45f308c8343ab7e07ad231"
+    },
+    {
+      "path": "docs/chat-edition.zh-CN.md",
+      "bytes": 4993,
+      "sha256": "9cee7080f15fb29521a4349e21d63ee6ea64a5cfb87231c1025dd0d97c5af727"
+    },
+    {
       "path": "LICENSE",
       "bytes": 1070,
       "sha256": "08e12b7862b1dc27d67b270adf2b7393b5930b11e322e3541a063c4f40830713"
     },
     {
       "path": "README.md",
-      "bytes": 2675,
-      "sha256": "0104d7ece61e366f84bdcc7d061ed211f86ac6fed077367429945ad533eca26c"
-    },
-    {
-      "path": "skills/relational-attunement/SKILL.md",
-      "bytes": 5249,
-      "sha256": "6928f54a66714097f1a2ab2d259f52f3887d1029041e29574ddc3d680ad7936c"
+      "bytes": 6990,
+      "sha256": "6d210914d9e4cdb0077cf6e55e117b7ba2f3164a320d267a2ba73514e6a51c04"
     },
     {
       "path": "skills/relational-attunement/agents/openai.yaml",
@@ -56,6 +61,11 @@
       "path": "skills/relational-attunement/references/response-modes.md",
       "bytes": 2177,
       "sha256": "d88264e43003d98fa229fabb165d73063283945457a4b2992f6d82d2ed8cff96"
+    },
+    {
+      "path": "skills/relational-attunement/SKILL.md",
+      "bytes": 6867,
+      "sha256": "04fae06ebe570f1720021f1f300cb1ff929cf51a38dae80c7ca01540a2d835e2"
     }
   ]
 }
