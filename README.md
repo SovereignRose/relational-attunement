@@ -22,6 +22,11 @@
 
 使用 `references/evaluations.md` 的六维评分：体验准确性、认识校准、模式适配、选择权、边界、自然度。参考指南包含通过建议与测试类别，并非已证明该技能在所有模型上达到该分数。加载成功与效果验证是两回事。
 
+
+## Chat Edition · 对话版
+
+新增 [对话式 AI 情商与关系调焦指南 v0.1（中文）](docs/chat-edition.zh-CN.md)：面向聊天、共思、自由交流和动态关系场景，并纳入 MSC（最小充分通讯）。这份指南可直接交给对话式 AI 作为行为参考；实际效果取决于模型与加载方式。
+
 ## English
 
 A portable, full-version communication skill for emotionally accurate attention, calibrated uncertainty, human agency, and appropriate boundaries. Copy the complete skill directory and explicitly instruct your harness to read SKILL.md and its referenced materials. This is a prompt-level behavioral guide, not model training. The included evaluation guide is a rubric, not a claim of measured universal performance.
