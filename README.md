@@ -36,7 +36,7 @@
 
 ### 如何使用
 
-**智能体 / 开发工具**：将完整的 `skills/relational-attunement/` 文件夹复制到项目，保留相对路径，并在 `CLAUDE.md`、`AGENTS.md` 或相应说明中明确要求读取 `SKILL.md`。按需读取五份 `references/` 文档。主技能保留 `agents/openai.yaml` 和 `assets/icon.svg`；`manifest.json` 记录发布文件的大小及 SHA256（不包含清单自身）。
+**智能体 / 开发工具**：将完整的 `skills/relational-attunement/` 文件夹复制到项目，保留相对路径，并在 `CLAUDE.md`、`AGENTS.md` 或相应说明中明确要求读取 `SKILL.md`。按需读取五份 `references/` 文档。复制文件只完成安装。要确认本次确实载入，请让助手报告实际读到的入口和参考文件，按需要核对版本及清单。主技能保留 `agents/openai.yaml` 和 `assets/icon.svg`；`manifest.json` 记录发布文件的大小及 SHA256（不包含清单自身）。
 
 **聊天型 AI**：提供[中文对话版](docs/chat-edition.zh-CN.md)或[英文对话版](docs/chat-edition.en.md)，并要求 AI 将其作为当前对话的沟通参考。是否能够长期加载或自动调用取决于具体平台。
 
@@ -46,7 +46,7 @@
 
 主技能 [评估指南](skills/relational-attunement/references/evaluations.md) 提供六维框架：体验准确性、认识校准、模式适配、自主性保护、边界适当性、自然度。每项 0–2 分，总计 12 分。该量表用于反馈与迭代，**不代表已经完成跨模型有效性验证**。
 
-项目欢迎渐进改进：可以按周整理反馈并形成候选更新，不强求每周必须新增功能。与 Lumina α 使用的精简 portable v1 区分；本仓库保留完整公开版技能和对话版文档。公开文件不包含私人对话、用户记忆、凭据或个人参考材料。
+项目欢迎渐进改进：可以按周整理反馈并形成候选更新，不强求每周必须新增功能。[发布记录](CHANGELOG.md)列出 Agent Skill 1.1.0 的行为与安装说明更新。对话版仍使用独立的版本号。公开文件不包含私人对话、用户记忆、凭据或个人参考材料。
 
 ## English
 
@@ -80,7 +80,7 @@ Default to **incremental, concise, context-sensitive communication**.
 
 ### How to use
 
-**For agents:** Copy the complete `skills/relational-attunement/` directory into your project and explicitly direct the harness, through `CLAUDE.md`, `AGENTS.md`, or equivalent instructions, to read `SKILL.md` and relevant references.
+**For agents:** Copy the complete `skills/relational-attunement/` directory into your project and explicitly direct the harness, through `CLAUDE.md`, `AGENTS.md`, or equivalent instructions, to read `SKILL.md` and relevant references. Copying the files installs the package. To check that it loaded in this session, ask which entrypoint and references the assistant actually read, then verify the version and manifest as needed.
 
 **For chat AI:** Supply the [English Chat Edition](docs/chat-edition.en.md) or [Chinese Chat Edition](docs/chat-edition.zh-CN.md) and ask the model to use it as a conversational guide. Automatic loading and persistence depend on the platform.
 
@@ -90,6 +90,6 @@ This is **prompt-level guidance**, not model training, a diagnosis system, or an
 
 The [evaluation guide](skills/relational-attunement/references/evaluations.md) scores six dimensions: experiential accuracy, epistemic calibration, mode fit, agency preservation, boundary adequacy, and naturalness (0–2 each, 12 total). It is an iteration rubric, **not proof of universal cross-model effectiveness**.
 
-The full published skill includes five reference documents, its original platform metadata and icon, and a checksum manifest. No private conversations, user memories, or credentials are included. The public full edition is distinct from the compact portable v1 used with Lumina α. Improvements may be considered weekly, but a release should reflect meaningful change, not a quota.
+The full published skill includes five reference documents, its original platform metadata and icon, and a checksum manifest. No private conversations, user memories, or credentials are included. The [release notes](CHANGELOG.md) describe the Agent Skill 1.1.0 behavior and setup changes. The Chat Edition has its own version. Improvements may be considered weekly, but a release should reflect meaningful change, not a quota.
 
 **License:** MIT · **Attribution:** Rose with Lumina

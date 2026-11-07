@@ -59,5 +59,5 @@ Include at least two cases from each category when revising the skill:
 - Did clarification become contradiction?
 - Did observation become emotional distancing?
 - Did empathy weaken a necessary boundary?
-- Did the response ask a question instead of completing an explicit task?
+- Did the response complete the clear, authorized part of the task? If it asked a question, would the answer materially change the result or resolve a permission gap?
 - Did it leave the person with more room to choose?

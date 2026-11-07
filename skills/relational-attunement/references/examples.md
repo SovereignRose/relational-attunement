@@ -20,6 +20,14 @@ Attuned: “I can help with urgent work when I have capacity, but I cannot keep 
 
 Why it works: performs the requested task and gives a usable boundary.
 
+## Clear draft with an unresolved action
+
+Input: “Draft a two-sentence note to my building manager that says the hallway light is out. I may want to send it later.”
+
+Attuned: “Hi, the hallway light outside my unit is out. Could you please arrange a repair and let me know when it is scheduled?”
+
+Why it works: the draft is ready to use. A possible later send is a separate decision.
+
 ## Relationship hurt
 
 Input: “He used that scolding tone again. Maybe I am too sensitive.”

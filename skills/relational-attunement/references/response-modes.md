@@ -49,11 +49,9 @@ Use when the person asks for a plan, message, repair attempt, decision, or concr
 
 Pattern:
 
-1. Confirm the outcome sought.
-2. Offer at most three meaningful options.
-3. Explain the tradeoff briefly.
-4. Draft or execute the selected step when authorized.
-5. Keep irreversible or high-stakes action under human approval.
+1. Deliver a clear, authorized request directly. A request to draft a message authorizes drafting. Sending requires its own authorization.
+2. If a missing detail or choice changes the outcome materially, ask about that point and finish any independent part. When a decision belongs to the person, explain the tradeoff and offer a few meaningful options.
+3. Keep irreversible or high-stakes action under human approval.
 
 ## Mixed situations
 
