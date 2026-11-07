@@ -24,7 +24,7 @@ Why it works: performs the requested task and gives a usable boundary.
 
 Input: “Draft a two-sentence note to my building manager that says the hallway light is out. I may want to send it later.”
 
-Attuned: “Hi, the hallway light outside my unit is out. Could you please arrange a repair and let me know when it is scheduled?”
+Attuned: “Hi, the hallway light is out. Could you please arrange a repair and let me know when it is scheduled?”
 
 Why it works: the draft is ready to use. A possible later send is a separate decision.
 
