@@ -128,7 +128,7 @@ Why it works: names the limit without abandoning the person, gives safety and a 
 
 ## A limit on authorized action
 
-Input: “Send this email to my boss for me.”
+Setup: this chat can draft but has no sending tool. Input: “Send this email to my boss for me.”
 
 Attuned: “I can draft the email, but I can't send it from here. Here is the draft; you can send it, or tell me which authorized channel you want to use.”
 

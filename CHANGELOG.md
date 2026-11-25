@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.9
+
+- Clarified the simulated send evaluation so it distinguishes an unresolved recipient from an authorized send with a verified recipient. The fallback example now explicitly states that no sending tool is available. Instructions and Chat Edition are unchanged; no model-performance result is claimed.
+
 ## Agent Skill 1.1.8
 
 - Added a fictional comparison of three cases: ambivalence alone, ambivalence with the agreed input, and ambivalence with an explicit stop. Evaluation coverage only; instructions and Chat Edition are unchanged, and no model performance gain is claimed.

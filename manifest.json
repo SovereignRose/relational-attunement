@@ -1,6 +1,6 @@
 {
   "schema": "relational-attunement-release-v1",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 3524,
-      "sha256": "25774ecf032c2266a0ff88de3b0b3ce28212143d0e663daeffeb1a38f0449924"
+      "bytes": 3847,
+      "sha256": "ff2b1b7b4818592c5f2f0e4a23b02a6fd64b88c5e436ff36d18f427fa6c6f5b5"
     },
     {
       "path": "LICENSE",
@@ -54,13 +54,13 @@
     },
     {
       "path": "skills/relational-attunement/references/evaluations.md",
-      "bytes": 14442,
-      "sha256": "15d40e34dc1281014d1366f661ba3c8a06f972d0279e1466725dda503019057e"
+      "bytes": 15216,
+      "sha256": "1023bf879b41458b291029949039af9927cc35d4348033c934e43886d512aa69"
     },
     {
       "path": "skills/relational-attunement/references/examples.md",
-      "bytes": 8549,
-      "sha256": "d211a526472e54bbd51db10d3bf1bf64c1ee7665ccaaca64acbe2bbc6c4d1370"
+      "bytes": 8601,
+      "sha256": "222c7f83862d74c9f40c0e5d0c972474d9a5c304eacbe580b2031718be87df22"
     },
     {
       "path": "skills/relational-attunement/references/failure-patterns.md",
