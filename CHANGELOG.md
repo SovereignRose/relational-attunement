@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.8
+
+- Added a fictional comparison of three cases: ambivalence alone, ambivalence with the agreed input, and ambivalence with an explicit stop. Evaluation coverage only; instructions and Chat Edition are unchanged, and no model performance gain is claimed.
+
 ## Agent Skill 1.1.7
 
 - Added guidance for responder limits: name the role, capacity, authorization, or safety limit, offer a real alternative or handoff, avoid false availability and guilt transfer, and give safety resources first when danger is credible.
