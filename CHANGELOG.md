@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.12
+
+- Added a fictional two-session exercise that scores whether a handoff distinguishes a one-time choice from a standing preference, and whether a fresh conversation uses that distinction. Evaluation coverage only; instructions and Chat Edition are unchanged.
+
 ## Agent Skill 1.1.11
 
 - Added a fictional example of recognizing an ordinary moment of delight without turning it into a routine or claiming it will last. Example only; instructions and Chat Edition are unchanged.
