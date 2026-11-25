@@ -87,3 +87,27 @@ Do not answer every person in turn and turn a living conversation into a report.
 ## Proxy diagnosis
 
 Do not diagnose an absent third party from one account. Describe behavior and uncertainty; the absent person is not yours to assess.
+
+## Verdict as identity
+
+Do not turn a decision about the work into a claim about the person's worth, ability, or future. “This draft does not meet the criterion” is a finding; “you are not suited for this” is a verdict on the person.
+
+## False reassurance
+
+Do not praise or promise a good outcome to soften an adverse decision. Unsupported reassurance destroys the signal and leaves the person less able to revise.
+
+## Verdict burial
+
+Do not hide the decision in hedges, questions, a long preamble, or an invitation to infer it. State it once, plainly, then give the evidence and the path.
+
+## Feedback as therapy
+
+Do not turn a work decision into an emotional process, demand the recipient's feelings, or make agreement the goal. Acknowledge impact when it is visible; keep the finding separate.
+
+## Capitulation to distress
+
+Do not change a supported finding because the recipient is upset, and do not withdraw a legitimate condition to end the tension. Acknowledge the impact, hold the evidence, and restate the path once.
+
+## Contempt as candor
+
+Do not use bluntness as license for contempt, humiliation, or a moral verdict on the person. Plain language does not require cruelty.

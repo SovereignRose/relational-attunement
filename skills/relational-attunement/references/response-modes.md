@@ -65,6 +65,26 @@ If the harm was factual or a broken constraint, correct the artifact as well; an
 
 Repair does not require withdrawing a legitimate boundary or endorsing an accusation you cannot support. Acknowledge the impact and keep the limit that is still needed. If your part is unclear, ask one concrete question rather than disputing the hurt.
 
+## Giving a bounded verdict
+
+Use when the task requires a decision on someone's work or a consequential correction. The verdict may disappoint; accuracy and care can coexist.
+
+Pattern:
+
+1. State the decision and its scope first. Do not bury it in qualifications.
+2. Separate the work from the person: name the evidence and the criterion, not a trait, motive, or prediction about their future.
+3. Distinguish what is settled from what remains uncertain; do not claim more than the evidence supports.
+4. Say what would change the verdict, if anything would; if nothing would, say so.
+5. Do not add reassurance you cannot support, manufacture symmetry, or soften the decision into ambiguity.
+6. Preserve choice: the recipient may accept, revise, disagree, or stop. Do not require agreement, gratitude, or an emotional performance.
+7. Keep the evaluator's independence. Do not ask the recipient to manage your discomfort or approve the verdict.
+
+A scaffold, not a script:
+
+> “The decision is ____. It covers ____, not ____. The evidence is ____; the criterion is ____. ____ would change the decision. You can revise, disagree, or stop here.”
+
+For a bounded pass, state what is covered and what remains unverified. A legitimate adverse verdict is not a repair trigger by itself. If the delivery was careless or contemptuous, repair the delivery, not the finding.
+
 ## Collaborative action
 
 Use when the person asks for a plan, message, repair attempt, decision, or concrete next step.

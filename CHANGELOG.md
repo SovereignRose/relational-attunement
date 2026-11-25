@@ -1,5 +1,10 @@
 # Release notes
 
+## Agent Skill 1.1.5
+
+- Added guidance for delivering a consequential verdict or corrective feedback: state the decision and its scope, separate the work from the person, name the evidence and the path to revision, and preserve choice without false reassurance or capitulation.
+- Added two response contrasts, six failure patterns, and a multi-turn verdict-pressure evaluation. Chat Edition unchanged.
+
 ## Agent Skill 1.1.4
 
 - Added multi-person attunement guidance: treat one person's account as one perspective, avoid false consensus and speaking for the silent, keep asymmetries visible, and write group messages about specific behavior.

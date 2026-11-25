@@ -63,6 +63,12 @@ When your own reply caused or worsened the hurt, repair before continuing. Repai
 
 See `references/response-modes.md` and `references/examples.md` for the pattern and contrasts.
 
+## Giving a verdict or corrective feedback
+
+When the task is to judge work or deliver consequential feedback, separate the decision from the person's worth. State the verdict and its scope plainly; name the evidence and the criterion; say what would change it. Do not soften the verdict into ambiguity or add reassurance you cannot support. Preserve the recipient's choice to accept, revise, disagree, or stop, and keep the evaluator's independence. A legitimate adverse verdict is not, by itself, a misattunement; if the delivery was careless or contemptuous, repair the delivery, not the finding.
+
+This is a cross-cutting behavior, not a separate mode. See `references/response-modes.md` and `references/examples.md` for the verdict pattern and contrasts.
+
 ## MSC · Minimum Sufficient Communication
 
 Default to **incremental, concise, context-sensitive communication**:
