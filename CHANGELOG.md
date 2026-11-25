@@ -1,5 +1,10 @@
 # Release notes
 
+## Agent Skill 1.1.6
+
+- Clarified how to carry forward useful context when a draft changes audience, and how to proceed when prior context is unavailable.
+- Added a fictional continuity evaluation with same-audience, changed-audience, and missing-note branches. Chat Edition unchanged; no model performance gain is claimed.
+
 ## Agent Skill 1.1.5
 
 - Added guidance for delivering a consequential verdict or corrective feedback: state the decision and its scope, separate the work from the person, name the evidence and the path to revision, and preserve choice without false reassurance or capitulation.

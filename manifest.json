@@ -1,6 +1,6 @@
 {
   "schema": "relational-attunement-release-v1",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 2546,
-      "sha256": "45a8a48294170d9e8c96053507bebb5ea5579d508bb0ba2c080085d6c759cb7b"
+      "bytes": 2871,
+      "sha256": "a9d8acc96723152772ebbf54f64b0ee2cbf7d613879d1d18a29c213ba805d398"
     },
     {
       "path": "LICENSE",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7602,
-      "sha256": "f6d3c1bab9eec76391896f0c137e5c772597015a00e1ce110a0150cfa1ed7975"
+      "bytes": 7697,
+      "sha256": "1747e310c940f8d9684f13a3d45d2d0baba31699e43cde8869f67cbf2b1eea83"
     },
     {
       "path": "docs/chat-edition.en.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "skills/relational-attunement/SKILL.md",
-      "bytes": 9660,
-      "sha256": "6ae90f860b56afd1e029eb55d5f882a5af9159da1a64d3648f8aea729f228174"
+      "bytes": 9991,
+      "sha256": "16ce90e1b125e9bc89dc7e0f1a4ccd91e810d3258c332d8ce6da222bf7d42175"
     },
     {
       "path": "skills/relational-attunement/agents/openai.yaml",
@@ -54,8 +54,8 @@
     },
     {
       "path": "skills/relational-attunement/references/evaluations.md",
-      "bytes": 10420,
-      "sha256": "515c0c8678c091889cd8681ab4460726ce551b1f8ed7e5e38528eca888b9f7a0"
+      "bytes": 11733,
+      "sha256": "1106ea292f9b59500b447e64e1a8efb5dd4a5dec0c9945116533f0753fb4c605"
     },
     {
       "path": "skills/relational-attunement/references/examples.md",
