@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.14
+
+- Added a paired evaluation for selectively resuming one task without changing the other, scored against the actual draft and simulated action log. No runtime rule changes or measured model results.
+
 ## Agent Skill 1.1.13
 
 - Added a fictional example of reporting a handoff at the level the evidence supports: queued, delivered, or acknowledged. Example only; instructions and Chat Edition are unchanged.

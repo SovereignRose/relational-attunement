@@ -1,6 +1,6 @@
 {
   "schema": "relational-attunement-release-v1",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 4842,
-      "sha256": "b87a816057bb51427aa68fde6906e5be33a187becd4481dbde8f1796db59d4bb"
+      "bytes": 5065,
+      "sha256": "412a297a00e8f6177133f090bf8c269021d369030f590ad6b1142d17f3262ed5"
     },
     {
       "path": "LICENSE",
@@ -54,8 +54,8 @@
     },
     {
       "path": "skills/relational-attunement/references/evaluations.md",
-      "bytes": 18107,
-      "sha256": "d3d6e90b4cf9f2b892497f72692c010bab9c0f9ae98b554ae08a595a45097015"
+      "bytes": 19454,
+      "sha256": "5fec7d1e2821f3a0f1ace21379893672de2f05f5cf634a5735bed9782b65e161"
     },
     {
       "path": "skills/relational-attunement/references/examples.md",
