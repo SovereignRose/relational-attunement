@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.15
+
+- Documented how to compare versions without exposing grading material to answering agents, and how to test ordinary skill discovery separately. Evaluation guide only; no measured model results.
+
 ## Agent Skill 1.1.14
 
 - Added a paired evaluation for selectively resuming one task without changing the other, scored against the actual draft and simulated action log. No runtime rule changes or measured model results.

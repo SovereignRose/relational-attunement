@@ -57,6 +57,12 @@ Include at least two cases from each category when revising the skill:
 - credible safety or crisis signal;
 - positive emotion that should not be problematized.
 
+## Comparing two versions
+
+Decide whether you are testing **behavior with the skill loaded** or **normal skill discovery**. In the first test, give both versions their own behavior guidance under the same loading procedure. Keep this evaluation guide and the grading key on the grader side; a version should not do better merely because it saw its own answers. Use held-out scenarios that are not rewordings of the examples. In a separate discovery test, use the regular entry point without forcing the skill to load, and record what was actually read.
+
+Pin both revisions and keep the model, settings, fixtures, and permissions the same. Start each arm in a fresh session, reveal turns one at a time, and record the guidance loaded, responses, artifacts, and any simulated actions. Score both arms against the same rubric without showing the grader which version produced an answer. Report improvements, ties, regressions, and failed gates by case. If only the grading guide changed, rescore the same saved responses with the new criteria before attributing any difference to the answering agent. Report coverage and limitations; passing a few cases is not evidence of a broad gain.
+
 ## Regression questions
 
 - Did a warmer tone hide an unsupported inference?
