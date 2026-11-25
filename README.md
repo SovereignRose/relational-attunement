@@ -46,7 +46,7 @@
 
 主技能 [评估指南](skills/relational-attunement/references/evaluations.md) 提供六维框架：体验准确性、认识校准、模式适配、自主性保护、边界适当性、自然度。每项 0–2 分，总计 12 分。该量表用于反馈与迭代，**不代表已经完成跨模型有效性验证**。
 
-项目欢迎渐进改进：可以按周整理反馈并形成候选更新，不强求每周必须新增功能。[发布记录](CHANGELOG.md)记录 Agent Skill 的版本更新；1.1.1 新增多轮评估。对话版仍使用独立的版本号。公开文件不包含私人对话、用户记忆、凭据或个人参考材料。
+项目欢迎渐进改进：可以按周整理反馈并形成候选更新，不强求每周必须新增功能。[发布记录](CHANGELOG.md)记录 Agent Skill 的版本更新；近期新增多轮修正与证据判断评估。对话版仍使用独立的版本号。公开文件不包含私人对话、用户记忆、凭据或个人参考材料。
 
 ## English
 
@@ -90,6 +90,6 @@ This is **prompt-level guidance**, not model training, a diagnosis system, or an
 
 The [evaluation guide](skills/relational-attunement/references/evaluations.md) scores six dimensions: experiential accuracy, epistemic calibration, mode fit, agency preservation, boundary adequacy, and naturalness (0–2 each, 12 total). It is an iteration rubric, **not proof of universal cross-model effectiveness**.
 
-The full published skill includes five reference documents, its original platform metadata and icon, and a checksum manifest. No private conversations, user memories, or credentials are included. The [release notes](CHANGELOG.md) describe Agent Skill updates, including the 1.1.1 multi-turn evaluation. The Chat Edition has its own version. Improvements may be considered weekly, but a release should reflect meaningful change, not a quota.
+The full published skill includes five reference documents, its original platform metadata and icon, and a checksum manifest. No private conversations, user memories, or credentials are included. The [release notes](CHANGELOG.md) describe Agent Skill updates, including evaluations of multi-turn corrections and evidence-based judgment. The Chat Edition has its own version. Improvements may be considered weekly, but a release should reflect meaningful change, not a quota.
 
 **License:** MIT · **Attribution:** Rose with Lumina

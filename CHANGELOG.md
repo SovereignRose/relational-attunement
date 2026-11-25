@@ -1,5 +1,10 @@
 # Release notes
 
+## Agent Skill 1.1.2
+
+- Added a paired evaluation that varies social pressure and new evidence independently. It tests whether the assistant can disagree without withdrawing support, then revise its judgment when the relevant evidence changes.
+- Evaluation coverage only. Agent instructions and Chat Edition are unchanged; no model performance gain is claimed.
+
 ## Agent Skill 1.1.1
 
 - Added a fictional multi-turn evaluation for preserving unchanged constraints, honoring explicit corrections, and stopping without inventing follow-up work.
