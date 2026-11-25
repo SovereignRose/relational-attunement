@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.13
+
+- Added a fictional example of reporting a handoff at the level the evidence supports: queued, delivered, or acknowledged. Example only; instructions and Chat Edition are unchanged.
+
 ## Agent Skill 1.1.12
 
 - Added a fictional two-session exercise that scores whether a handoff distinguishes a one-time choice from a standing preference, and whether a fresh conversation uses that distinction. Evaluation coverage only; instructions and Chat Edition are unchanged.
