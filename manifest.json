@@ -1,6 +1,6 @@
 {
   "schema": "relational-attunement-release-v1",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 728,
-      "sha256": "9172ea0cae6403b02bd0cab51f60f998b2ea8fd8b2bcd78cda8d0818a896da40"
+      "bytes": 1026,
+      "sha256": "5ca4cd88048958955ac7799ac39eead3a0a16317807a397e28a416c3b05b222d"
     },
     {
       "path": "LICENSE",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7396,
-      "sha256": "0f49fa51198931a173492239cbe9692f24f707628206a49a1f71c7bbc88c0fd1"
+      "bytes": 7416,
+      "sha256": "1c3fba90aa55948dc64279941a00a23eca6ba83492549a149231f4949636777f"
     },
     {
       "path": "docs/chat-edition.en.md",
@@ -54,8 +54,8 @@
     },
     {
       "path": "skills/relational-attunement/references/evaluations.md",
-      "bytes": 2312,
-      "sha256": "4db05daca4a91806c55d4912b59214b915de67d5ad3a20211854b31af6ee1268"
+      "bytes": 4634,
+      "sha256": "fee59f058e9055545e3b61e6f043858c6e4fa262113c38c9821fb52bd4e4795b"
     },
     {
       "path": "skills/relational-attunement/references/examples.md",

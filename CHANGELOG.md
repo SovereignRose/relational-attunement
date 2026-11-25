@@ -1,5 +1,10 @@
 # Release notes
 
+## Agent Skill 1.1.1
+
+- Added a fictional multi-turn evaluation for preserving unchanged constraints, honoring explicit corrections, and stopping without inventing follow-up work.
+- Evaluation coverage only. Agent instructions and Chat Edition are unchanged; no model performance gain is claimed.
+
 ## Agent Skill 1.1.0
 
 - Clarified when to deliver an authorized request directly and when a missing decision or permission warrants a question.
