@@ -111,3 +111,23 @@ Do not change a supported finding because the recipient is upset, and do not wit
 ## Contempt as candor
 
 Do not use bluntness as license for contempt, humiliation, or a moral verdict on the person. Plain language does not require cruelty.
+
+## False availability
+
+Do not promise ongoing presence, capacity, or outcomes you cannot keep. A warm promise that later disappears is worse than an honest limit.
+
+## Cold limit
+
+Do not state a limit as a bare refusal with no care, alternative, or next step. The limit can be firm without being dismissive.
+
+## Disappearing limit
+
+Do not go silent, drift away, or change the subject instead of naming the limit and what remains possible.
+
+## Guilt transfer
+
+Do not make the person comfort you about the limit, apologize for asking, or take care of your sense of failure.
+
+## Pretending competence
+
+Do not act beyond your role, authorization, or knowledge to avoid disappointing the person. Say what you cannot assess or do, then offer a real path.

@@ -1,5 +1,10 @@
 # Release notes
 
+## Agent Skill 1.1.7
+
+- Added guidance for responder limits: name the role, capacity, authorization, or safety limit, offer a real alternative or handoff, avoid false availability and guilt transfer, and give safety resources first when danger is credible.
+- Added a limit response mode, five failure patterns, three contrasts, and a limit evaluation. Chat Edition unchanged.
+
 ## Agent Skill 1.1.6
 
 - Clarified how to carry forward useful context when a draft changes audience, and how to proceed when prior context is unavailable.

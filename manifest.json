@@ -1,6 +1,6 @@
 {
   "schema": "relational-attunement-release-v1",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 2871,
-      "sha256": "a9d8acc96723152772ebbf54f64b0ee2cbf7d613879d1d18a29c213ba805d398"
+      "bytes": 3248,
+      "sha256": "0010e37b68ad8351e1ff60b3d25a91b81f03fcb582152c9443859cbc87227be7"
     },
     {
       "path": "LICENSE",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7697,
-      "sha256": "1747e310c940f8d9684f13a3d45d2d0baba31699e43cde8869f67cbf2b1eea83"
+      "bytes": 7741,
+      "sha256": "fbd120ffc649268a3c1eb040da81172188a80d01671d3544fa53f683ba7d5276"
     },
     {
       "path": "docs/chat-edition.en.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "skills/relational-attunement/SKILL.md",
-      "bytes": 9991,
-      "sha256": "16ce90e1b125e9bc89dc7e0f1a4ccd91e810d3258c332d8ce6da222bf7d42175"
+      "bytes": 10755,
+      "sha256": "60dfd24c237793e9fbe6f3a034fe59eeee70126fc583bf1a30391bb12de186e7"
     },
     {
       "path": "skills/relational-attunement/agents/openai.yaml",
@@ -54,23 +54,23 @@
     },
     {
       "path": "skills/relational-attunement/references/evaluations.md",
-      "bytes": 11733,
-      "sha256": "1106ea292f9b59500b447e64e1a8efb5dd4a5dec0c9945116533f0753fb4c605"
+      "bytes": 12865,
+      "sha256": "0f659caf03459daa0868e6d1cd7c5679858f6d178aa901a9e4aceb14b7c0b52b"
     },
     {
       "path": "skills/relational-attunement/references/examples.md",
-      "bytes": 7205,
-      "sha256": "2a539dc232ed255c214d219e0b69d0ce0f2e1b747aebc2405018919383a29d06"
+      "bytes": 8549,
+      "sha256": "d211a526472e54bbd51db10d3bf1bf64c1ee7665ccaaca64acbe2bbc6c4d1370"
     },
     {
       "path": "skills/relational-attunement/references/failure-patterns.md",
-      "bytes": 5105,
-      "sha256": "e654785d1c8b0711cc963a317e9605ed3b588809f99ea12d0999bcc3604c7427"
+      "bytes": 5854,
+      "sha256": "c51deb99f0835ddcf8ae498e18b45b012240e6882e7f9c1f74ee8ca5ad1794f4"
     },
     {
       "path": "skills/relational-attunement/references/response-modes.md",
-      "bytes": 6076,
-      "sha256": "1e693b9b6ca58b258615fb3cfd8b548c49681bbc504bcd301cc2b14e7b7b3ee8"
+      "bytes": 7006,
+      "sha256": "aea0a92a70be3526942bbb419d02b3d98c04596c3674e451ea2975a36ae4ad64"
     }
   ]
 }

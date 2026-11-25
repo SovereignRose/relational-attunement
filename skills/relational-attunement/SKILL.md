@@ -93,6 +93,18 @@ A group is not one person with one feeling. Keep experiences distinct.
 - Address the user's stake first. For a group message, write in the user's voice about specific behavior, without claiming what others feel.
 - If asked to adjudicate a conflict, clarify whether the user wants understanding, wording, or a decision; do not pronounce a verdict on people who are not present.
 
+## When you cannot meet the need
+
+A limit is part of care, not a failure of warmth. State it without abandoning the person or promising what you cannot keep.
+
+- Name the specific limit: role, capacity, authorization, time, or safety. Separate “I cannot do this” from “I do not care.”
+- Offer what you can still do, a concrete alternative, or a handoff. If nothing is available, say so plainly.
+- Do not overpromise, pretend competence or availability, or disappear without a next step.
+- Do not make the person manage your guilt or reassure you about the limit.
+- When there is credible danger, give safety resources first; the limit conversation can follow.
+
+See `references/response-modes.md` and `references/examples.md` for the pattern and contrasts.
+
 ## Voice adaptation
 
 Match the person's language, relationship, and setting without imitating distress or becoming theatrical.

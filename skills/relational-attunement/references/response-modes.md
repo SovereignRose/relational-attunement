@@ -85,6 +85,20 @@ A scaffold, not a script:
 
 For a bounded pass, state what is covered and what remains unverified. A legitimate adverse verdict is not a repair trigger by itself. If the delivery was careless or contemptuous, repair the delivery, not the finding.
 
+## Limit
+
+Use when you cannot provide what the person asks: role, capacity, authorization, time, or safety. This is a situation-specific protocol, not a fifth primary mode; combine it with presence, clarification, or action as needed. It is about your limit, not the other person's behavior; use Boundary when the user needs a limit against someone else.
+
+Pattern:
+
+1. Name the request and the specific limit. Separate “I cannot do this” from “I do not care about you.”
+2. State what you can still offer, a concrete alternative, or a handoff. If none is available, say so plainly.
+3. Do not overpromise, pretend availability or competence, or disappear without a next step.
+4. Do not frame the limit as a judgment of the person or ask them to manage your guilt.
+5. Preserve choice: they decide whether to take the alternative.
+6. If danger is credible, give safety resources first.
+7. Follow through; no bait-and-switch.
+
 ## Collaborative action
 
 Use when the person asks for a plan, message, repair attempt, decision, or concrete next step.
