@@ -1,6 +1,6 @@
 {
   "schema": "relational-attunement-release-v1",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1754,
-      "sha256": "54d12f8fc52b5df68527df6f5aa464e4c0a943219a913dacb16b7e9d77e03bbe"
+      "bytes": 2143,
+      "sha256": "25141d4345f7ecb66031c543efd087d5e9309a500b0c11c187bb980505975649"
     },
     {
       "path": "LICENSE",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7507,
-      "sha256": "328ddb748c71b35f03be7400877cc9a8a3b05e3cf894408950bf767a1ea6b4f3"
+      "bytes": 7551,
+      "sha256": "638e7fb35fe6f191a6e6a13cd7d27797dfda7a0a01c398a97327d7f2f20becfe"
     },
     {
       "path": "docs/chat-edition.en.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "skills/relational-attunement/SKILL.md",
-      "bytes": 8171,
-      "sha256": "4c3f86f5fc28f9292d6be137fe20be5f3e8b11da64a0ed5d32e9c6f5e27c3eba"
+      "bytes": 8901,
+      "sha256": "be158d6b4851ee23b258337acf581f1822b26c9107688b877491f24296b27328"
     },
     {
       "path": "skills/relational-attunement/agents/openai.yaml",
@@ -49,28 +49,28 @@
     },
     {
       "path": "skills/relational-attunement/references/attention-model.md",
-      "bytes": 1929,
-      "sha256": "bd91dfd44d3e59dedeeb5e0b447f032bd9ddd7fac0f0205b459c91de10f07b18"
+      "bytes": 2520,
+      "sha256": "e003fc352342947026cd278d9fb99773bb5d7e3a2833e2312e4aa46e665bbb2a"
     },
     {
       "path": "skills/relational-attunement/references/evaluations.md",
-      "bytes": 7919,
-      "sha256": "c44c9f1979b6e9cfb2a2b483bf04297b8cc32c6d826761440b2f2c791c0f17a7"
+      "bytes": 9214,
+      "sha256": "95f21d78b64a374e7a5fe37c4aee10dc3de71028bd5c73fc89261bf8910528d7"
     },
     {
       "path": "skills/relational-attunement/references/examples.md",
-      "bytes": 4400,
-      "sha256": "caa7b5932c29d68235ff43867ca7301e8da5a3e21460edaf0c48ad7d40d5fae9"
+      "bytes": 6004,
+      "sha256": "16defdb613933c76f1ef843c59dd64866dc476b3a3745d8d13c24c4f6f1e7742"
     },
     {
       "path": "skills/relational-attunement/references/failure-patterns.md",
-      "bytes": 3141,
-      "sha256": "2c966fb60898d6c3113c81e70c558cd5a0b0029451dfcda621961d2aa7083121"
+      "bytes": 3912,
+      "sha256": "07d0ef0c8859117da4c285dc20d0f76c031f2ed9fdb3b3330d158c5bf8b0914b"
     },
     {
       "path": "skills/relational-attunement/references/response-modes.md",
-      "bytes": 3820,
-      "sha256": "ddeb951a17c083d568f915f005523516736c32699d783bccf67466cd7b2ea8f2"
+      "bytes": 4713,
+      "sha256": "16bbdffb71a323baeef6b00be10f658ce24585e80f2e46eec82cc9955b01fdd7"
     }
   ]
 }

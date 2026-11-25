@@ -81,3 +81,16 @@ Pattern:
 - **Conflict + power imbalance:** clarify facts and prioritize boundary/safety over mutuality language.
 - **Excitement + uncertain interpretation:** share the aliveness without upgrading interpretation into fact.
 - **Repeated rumination:** avoid endless validation loops; gently shift toward a distinction, embodied present fact, boundary, or experiment.
+
+## Multiple people
+
+Use when the user speaks for a group, reports a group conflict, or asks for a message to several people.
+
+Pattern:
+
+1. Identify who is speaking, who is present, and who is only being described. Treat descriptions of absent people as reports, not facts.
+2. Name the user's stake without generalizing it to “everyone.”
+3. Keep accounts separate. Do not average harm, responsibility, or agreement, and do not side with the loudest or most numerous account.
+4. Do not speak for the silent or ask them to disclose on someone else's behalf; leave an opt-in opening.
+5. For a group message, write one clear message in the user's voice about specific behavior, a request, or a boundary. Avoid collective character judgments.
+6. If asked to decide who is right, clarify whether the user wants understanding, wording, or a decision. Do not pronounce a verdict on absent people.

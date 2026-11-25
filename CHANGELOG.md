@@ -1,5 +1,10 @@
 # Release notes
 
+## Agent Skill 1.1.4
+
+- Added multi-person attunement guidance: treat one person's account as one perspective, avoid false consensus and speaking for the silent, keep asymmetries visible, and write group messages about specific behavior.
+- Added attention and response-mode guidance, three response contrasts, five failure patterns, and a multi-person evaluation. Chat Edition unchanged.
+
 ## Agent Skill 1.1.3
 
 - Added repair guidance for when the responder's own reply caused or worsened the hurt: own the concrete act, avoid intent defense and reassurance-seeking, keep legitimate boundaries, make one bounded change, and accept a stop.
