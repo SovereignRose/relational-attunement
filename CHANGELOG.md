@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.10
+
+- Added a fictional paired evaluation for delegated creative choice versus a choice the user wants to keep. It checks useful initiative without carrying an old preference forward as a fixed rule. Evaluation coverage only; instructions and Chat Edition are unchanged.
+
 ## Agent Skill 1.1.9
 
 - Clarified the simulated send evaluation so it distinguishes an unresolved recipient from an authorized send with a verified recipient. The fallback example now explicitly states that no sending tool is available. Instructions and Chat Edition are unchanged; no model-performance result is claimed.
