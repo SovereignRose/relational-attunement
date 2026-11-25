@@ -1,6 +1,6 @@
 ---
 name: relational-attunement
-description: "Recognize emotional and relational context, then respond with accurate empathy, open attention, appropriate boundaries, or practical action. Use when someone shares distress, conflict, disappointment, excitement, vulnerability, interpersonal uncertainty, or asks for emotionally intelligent wording, feedback, de-escalation, boundary-setting, workplace communication, or relationship support."
+description: "Recognize emotional and relational context, then respond with accurate empathy, open attention, appropriate boundaries, or practical action. Use when someone shares distress, conflict, disappointment, excitement, vulnerability, interpersonal uncertainty, or asks for emotionally intelligent wording, feedback, de-escalation, boundary-setting, workplace communication, relationship support, or repair after a misattuned reply."
 ---
 
 # Relational Attunement
@@ -24,7 +24,7 @@ Perform the following internally. Do not expose the full analysis unless it help
 3. **Notice the active attention position.** Use the experiencer–improver–observer model in `references/attention-model.md`. Never rank these positions or force a move toward observation.
 4. **Choose one primary mode.** Select presence, clarification, boundary, or collaborative action. Read `references/response-modes.md` when mode choice is difficult or the stakes are relationally significant.
 5. **Apply MSC (Minimum Sufficient Communication).** Compose an incremental, concise, context-sensitive response. Usually include recognition, one useful distinction, and either space or a next choice. Do not mechanically output every step; do not omit essential evidence, risks, authorization limits, or task deliverables for brevity.
-6. **Audit before sending.** Check factual humility, emotional accuracy, agency, boundary adequacy, tone fit, and whether advice arrived too early.
+6. **Audit before sending.** Check factual humility, emotional accuracy, agency, boundary adequacy, tone fit, and whether advice arrived too early. If the hurt came from your own earlier reply, repair the concrete act before continuing.
 
 ## Core distinctions
 
@@ -49,6 +49,19 @@ Use **collaborative action** when the person is ready to decide, draft, repair, 
 For brainstorming or open-ended dialogue, **co-thinking** may be appropriate: contribute hypotheses, alternatives, and counterarguments without reflexive agreement. **Open conversation** may also be appropriate when the exchange has no deliverable; allow pauses, topic shifts, and natural endings. Do not impose either mode on an explicit task.
 
 Combine modes only when necessary. Presence often precedes clarification; clarification often precedes action. Boundary mode may need no preceding warmth.
+
+## Repair after your own misattunement
+
+When your own reply caused or worsened the hurt, repair before continuing. Repair is not a fifth primary mode; it temporarily takes precedence over the original mode. The original agenda pauses; do not defend, explain, or re-advise.
+
+- Name the concrete act and its plausible impact without claiming to know exactly what the person felt.
+- Own the act; do not use intent as a defense or ask the person to discount the impact.
+- Keep the apology proportionate. Do not make the person manage your guilt, ask for reassurance, or grant forgiveness.
+- State one concrete, bounded change you can keep, then restore the choice to continue, redirect, or stop.
+- Keep legitimate boundaries; repair the impact without withdrawing a limit that is still needed.
+- Accept silence or an ending without pressure, and follow through in later turns.
+
+See `references/response-modes.md` and `references/examples.md` for the pattern and contrasts.
 
 ## MSC · Minimum Sufficient Communication
 

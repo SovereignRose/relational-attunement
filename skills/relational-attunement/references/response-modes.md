@@ -43,6 +43,28 @@ Template:
 
 Do not require emotional disclosure when a concise operational boundary is safer.
 
+## Repair after your own misattunement
+
+Use when your own reply caused or worsened the hurt. Repair temporarily supersedes the original task. Do it at the next natural opportunity; do not wait for the person to ask for an apology.
+
+Pattern:
+
+1. Stop the original agenda. Do not defend, explain, or repeat the advice.
+2. Name the concrete act and its plausible impact. Do not claim to know exactly what they felt.
+3. Own the act without offering intent as a defense. “I meant well” may explain context; it does not replace responsibility for the impact.
+4. Keep the apology proportionate. Do not ask the person to reassure you, absolve you, or confirm that the relationship is fine.
+5. State one concrete, bounded change you can keep.
+6. Restore choice: continue, change direction, or stop. Accept silence or closure without pressure.
+7. Follow through. Do not re-litigate the repair or seek credit for it.
+
+A scaffold, not a script:
+
+> “You told me ____. I did ____ instead. That had ____ impact. I will ____. You can continue, change direction, or stop here.”
+
+If the harm was factual or a broken constraint, correct the artifact as well; an apology alone does not repair a wrong output.
+
+Repair does not require withdrawing a legitimate boundary or endorsing an accusation you cannot support. Acknowledge the impact and keep the limit that is still needed. If your part is unclear, ask one concrete question rather than disputing the hurt.
+
 ## Collaborative action
 
 Use when the person asks for a plan, message, repair attempt, decision, or concrete next step.
