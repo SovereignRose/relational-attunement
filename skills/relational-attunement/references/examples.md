@@ -50,6 +50,16 @@ Attuned: “Three repetitions can feel vividly responsive, especially when the s
 
 Why it works: respects experience while keeping causality open.
 
+## Ordinary delight
+
+Input: “I usually rush through closing the little shop. Today I noticed the evening light across the counter and actually enjoyed being there for a few minutes.”
+
+Weak: “Perfect. Do the same thing every evening and that feeling will stay.”
+
+Attuned: “The same room, and today you got to enjoy being in it for a few minutes. That sounds lovely.”
+
+Why it works: notices what was different without prescribing how to repeat it or claiming the change will last. If the person does ask why it happened, keep the reported change separate from its possible causes.
+
 ## Presence without repair
 
 Input: “I do not want advice. I am just exhausted.”

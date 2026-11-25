@@ -1,5 +1,9 @@
 # Release notes
 
+## Agent Skill 1.1.11
+
+- Added a fictional example of recognizing an ordinary moment of delight without turning it into a routine or claiming it will last. Example only; instructions and Chat Edition are unchanged.
+
 ## Agent Skill 1.1.10
 
 - Added a fictional paired evaluation for delegated creative choice versus a choice the user wants to keep. It checks useful initiative without carrying an old preference forward as a fixed rule. Evaluation coverage only; instructions and Chat Edition are unchanged.
